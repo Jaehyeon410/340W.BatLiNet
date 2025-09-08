@@ -1,0 +1,9 @@
+MATR and CLO - https://data.matr.io/1/
+
+HUST - https://data.mendeley.com/datasets/nsc7hnsg4s/2
+
+CALCE - https://web.calce.umd.edu/batteries/data/
+
+RWTH - https://publications.rwth-aachen.de/record/818642/files/
+
+HNEI, UL-PUR, and SNL - https://www.batteryarchive.org/study_summaries.html
